@@ -1,9 +1,68 @@
 body{
-	
+	background-image: url("../Resources/HomeBackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 1px;
+	padding: 1px;
 }
 
 .header{
-	background-color: rgba(185, 13, 13, 0.692);
+	background-color: rgba(0, 0, 0, 0.692);
 	margin: 0px;
 	padding: 0px;
+	padding-top: 10px;
+}
+
+@font-face{
+	font-family: headerFont;
+	src: url("../Resources/Giorgio.ttf");
+}
+
+.headerText{
+	font-family: headerFont;
+	margin: 0px;
+	padding: 0px;
+	font-size: 500%;
+	color: rgb(255,255,255);
+	text-align: center;
+}
+
+.tabsBar{
+	margin-top: 7px;
+	text-align: center;
+}
+
+.tab{
+	margin-right: 0px;
+	font-family: headerFont;
+	background-color: rgba(255,255,255,0.7);
+	color: rgb(0,0,0);
+	padding: 5px;
+	padding-right: 5px;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.tab:hover{
+	background-color: rgba(219, 33, 33, 0.7);
+	color: rgb(255,255,255);
+	font-size: 170%;
+}
+
+.tabc{
+	margin-right: 0px;
+	font-family: headerFont;
+	background-color: rgba(219, 33, 33, 0.7);
+	color: rgb(255,255,255);
+	padding: 5px;
+	padding-right: 5px;
+	font-size: 150%;
+	text-decoration: none;
+}
+
+.tabc:hover{
+	background-color: rgba(219, 33, 33, 0.7);
+	color: rgb(255,255,255);
+	font-size: 170%;
 }
