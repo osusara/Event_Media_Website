@@ -98,14 +98,15 @@
 	padding: 10px;
 	padding-left: 100px;
 	padding-right: 100px;
+	width: 100%
 }
 
 .footerAboutUs{
 	font-family: headerFont;
 	margin: 0px;
 	padding: 0px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
 	font-size: 70%;
 	color: rgb(255,255,255);
 	text-align: left;
@@ -117,8 +118,21 @@
 	font-family: headerFont;
 	margin: 0px;
 	padding: 0px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 70%;
+	color: rgb(255,255,255);
+	text-align: center;
+	text-align: justify;
+	width: 300px
+}
+
+.footerFollowUs{
+	font-family: headerFont;
+	margin: 0px;
+	padding: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
 	font-size: 70%;
 	color: rgb(255,255,255);
 	text-align: center;
