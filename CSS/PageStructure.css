@@ -35,7 +35,7 @@
 }
 
 .header{
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.7);
 	margin: 0px;
 	padding: 0px;
 	padding-top: 10px;
@@ -72,7 +72,7 @@
 }
 
 .tab:hover{
-	background-color: rgba(219, 33, 33, 0.7);
+	background-color: rgba(219, 33, 33, 0.9);
 	color: rgb(255,255,255);
 }
 
@@ -88,6 +88,40 @@
 }
 
 .tabc:hover{
-	background-color: rgba(219, 33, 33, 0.7);
+	background-color: rgba(219, 33, 33, 0.9);
 	color: rgb(255,255,255);
+}
+
+.footer{
+	background-color: rgba(0, 0, 0, 0.7);
+	margin: 0px;
+	padding: 10px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.footerAboutUs{
+	font-family: headerFont;
+	margin: 0px;
+	padding: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 70%;
+	color: rgb(255,255,255);
+	text-align: left;
+	text-align: justify;
+	width: 300px
+}
+
+.footerContacts{
+	font-family: headerFont;
+	margin: 0px;
+	padding: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 70%;
+	color: rgb(255,255,255);
+	text-align: center;
+	text-align: justify;
+	width: 300px
 }
