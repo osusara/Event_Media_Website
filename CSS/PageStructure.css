@@ -1,4 +1,31 @@
-body{
+.bodyIndex{
+	background-image: url("../Resources/HomeBackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 1px;
+	padding: 1px;
+}
+
+.bodyAboutUs{
+	background-image: url("../Resources/AboutUsBackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 1px;
+	padding: 1px;
+}
+
+.bodyPhotographers{
+	background-image: url("../Resources/PhotographersBackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 1px;
+	padding: 1px;
+}
+
+.bodyVideographers{
 	background-image: url("../Resources/VideographersBackground.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
