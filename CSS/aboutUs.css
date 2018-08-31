@@ -47,7 +47,6 @@ body{
 .tab:hover{
 	background-color: rgba(219, 33, 33, 0.7);
 	color: rgb(255,255,255);
-	font-size: 170%;
 }
 
 .tabc{
@@ -64,5 +63,4 @@ body{
 .tabc:hover{
 	background-color: rgba(219, 33, 33, 0.7);
 	color: rgb(255,255,255);
-	font-size: 170%;
 }
