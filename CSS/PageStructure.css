@@ -3,8 +3,8 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin: 1px;
-	padding: 1px;
+	margin: 0px;
+	padding: 0px;
 }
 
 .bodyAboutUs{
@@ -12,8 +12,8 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin: 1px;
-	padding: 1px;
+	margin: 0px;
+	padding: 0px;
 }
 
 .bodyPhotographers{
@@ -21,8 +21,8 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin: 1px;
-	padding: 1px;
+	margin: 0px;
+	padding: 0px;
 }
 
 .bodyVideographers{
@@ -30,8 +30,8 @@
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	margin: 1px;
-	padding: 1px;
+	margin: 0px;
+	padding: 0px;
 }
 
 .header{
@@ -39,6 +39,9 @@
 	margin: 0px;
 	padding: 0px;
 	padding-top: 10px;
+	width: 100%;
+	top: 0;
+	left: 0;
 }
 
 @font-face{
@@ -56,7 +59,7 @@
 }
 
 .tabsBar{
-	margin-top: 7px;
+	margin-top: 8px;
 	text-align: center;
 }
 
