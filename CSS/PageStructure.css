@@ -76,6 +76,7 @@
 }
 
 .tab:hover{
+	transition: all 0.5s ease-in-out;
 	background-color: rgba(219, 33, 33, 0.9);
 	color: rgb(255,255,255);
 }
@@ -92,16 +93,9 @@
 }
 
 .tabc:hover{
+	transition: all 0.5s ease-in-out;
 	background-color: rgba(219, 33, 33, 0.9);
 	color: rgb(255,255,255);
-}
-
-.slideShow{
-	width: 100%;
-	height: 40%;
-	background-image: url("../Resources/i1.jpg");
-	border-image-width: 100%;
-	height: 40%
 }
 
 .footer{
