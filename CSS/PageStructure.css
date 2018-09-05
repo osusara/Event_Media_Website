@@ -147,3 +147,29 @@
 	text-align: justify;
 	width: 300px
 }
+
+.regForm{
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 5%;
+	margin-bottom: 5%;
+	background-color: rgba(0,0,0,0.7);
+}
+
+.regField{
+	width: 50%;
+    height: 24px;
+    margin: 5px;
+    padding: 5px;
+    border: white solid 2px;
+    font-size: 20px;
+    font-family: headerFont;
+}
+
+.regFieldText{
+	font-family: headerFont;
+    font-weight: lighter;
+    font-style: inherit;
+    color: rgb(255,255,255);
+}
+
