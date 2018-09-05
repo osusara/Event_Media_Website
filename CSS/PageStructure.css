@@ -153,6 +153,7 @@
 	margin-right: 20%;
 	padding: 5%;
 	margin-bottom: 5%;
+	margin-top: 5%;
 	background-color: rgba(0,0,0,0.7);
 }
 
@@ -171,5 +172,16 @@
     font-weight: lighter;
     font-style: inherit;
     color: rgb(255,255,255);
+}
+
+.regSubmit{
+	background-color: white;
+    font-family: headerFont;
+    border: white solid 2px;
+    color: rgb(0,0,0);
+    width: 20%;
+    padding: 8px;
+    font-size: 18px;
+    margin-left: 80%;
 }
 
