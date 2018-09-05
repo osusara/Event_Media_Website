@@ -185,3 +185,10 @@
     margin-left: 80%;
 }
 
+.regSubmit:hover{
+	transition: all 0.5s ease-in-out;
+	background-color: rgba(219, 33, 33, 0.9);
+	border: rgba(219, 33, 33, 0.9) solid 2px;
+	color: rgb(255,255,255);
+}
+
