@@ -34,6 +34,11 @@
 	padding: 0px;
 }
 
+.top{
+	position: fixed;
+	width: 100%;
+}
+
 .header{
 	background-color: rgba(0, 0, 0, 0.7);
 	margin: 0px;
