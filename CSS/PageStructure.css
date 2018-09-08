@@ -7,7 +7,7 @@
 	padding: 0px;
 }
 
-.bodyAboutUs{
+.bodyRegister{
 	background-image: url("../Resources/AboutUsBackground.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -34,9 +34,8 @@
 	padding: 0px;
 }
 
-.top{
-	position: fixed;
-	width: 100%;
+.headerSpace{
+
 }
 
 .header{
