@@ -206,48 +206,47 @@
 
 .slideShow{
 	height: 500px;
-	width: 700px; 
+	width: 100%; 
 	margin: 20px auto;
 	position: relative;
 }
 
 #imge{
-	height: 500PX;
-	width: 700PX;
+	height: 100%;
+	width: 100%;
 	position: absolute;
 }  
 
 #leftHolder {
-	height: 450px;
+	height: 500px;
 	width: 100px;
 	position: absolute;
     left: 0px;
 	top: 0px;
-
-
 }
 
 #rightHolder{
-    height: 450px;
+    height: 500px;
 	width: 100px;
 	position: absolute;
 	top: 0px;
 	right: 0px;
-
 } 
 
 #left{
-	height: 50px;
-	width: 50px;
+	background-color: rgba(0,0,0,0.7);
+	height: 500px;
+	width: 100px;
 	position: absolute;
-	top: 40%;
+	top: 0px;
 	left: 0px;
 }
 
 #right{
-	height: 50px;
-	width: 50px;
+	background-color: rgba(0,0,0,0.7);
+	height: 500px;
+	width: 100px;
 	position: absolute;
-	top: 40%;
+	top: 0px;
 	right: 0px;
 }
