@@ -205,8 +205,8 @@
 
 
 .slideShow{
-	height: 500px;
-	width: 95%; 
+	height: 720px;
+	width: 1280px; 
 	margin: 20px auto;
 	position: relative;
 }
@@ -235,7 +235,7 @@
 
 #left{
 	background-color: rgba(0,0,0,0.7);
-	height: 500px;
+	height: 720px;
 	width: 100px;
 	position: absolute;
 	top: 0px;
@@ -244,7 +244,7 @@
 
 #right{
 	background-color: rgba(0,0,0,0.7);
-	height: 500px;
+	height: 720px;
 	width: 100px;
 	position: absolute;
 	top: 0px;
