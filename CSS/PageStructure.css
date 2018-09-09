@@ -196,3 +196,58 @@
 	color: rgb(255,255,255);
 }
 
+
+
+
+
+
+
+
+
+.slideShow{
+	height: 500px;
+	width: 700px; 
+	margin: 20px auto;
+	position: relative;
+}
+
+#imge{
+	height: 500PX;
+	width: 700PX;
+	position: absolute;
+}  
+
+#leftHolder {
+	height: 450px;
+	width: 100px;
+	position: absolute;
+    left: 0px;
+	top: 0px;
+
+
+}
+
+#rightHolder{
+    height: 450px;
+	width: 100px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+
+} 
+
+#left{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 40%;
+	left: 0px;
+}
+
+#right{
+	height: 50px;
+	width: 50px;
+	position: absolute;
+	top: 40%;
+	right: 0px;
+}
