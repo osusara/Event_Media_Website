@@ -158,11 +158,11 @@
 }
 
 .regTableRow{
-	
+	width: 100%;
 }
 
 .regFieldTD{
-	width: 720px;
+	width: 80%;
 }
 
 .regField{
