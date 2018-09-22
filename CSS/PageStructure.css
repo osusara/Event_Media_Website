@@ -157,6 +157,14 @@
 	background-color: rgba(0,0,0,0.7);
 }
 
+.regTableRow{
+	
+}
+
+.regFieldTD{
+	width: 720px;
+}
+
 .regField{
 	width: 50%;
     height: 24px;
