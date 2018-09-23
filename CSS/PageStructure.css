@@ -158,7 +158,7 @@
 }
 
 .regFieldTD{
-	width: 85%;
+	width: 88%;
 }
 
 .regField{
@@ -181,20 +181,20 @@
 .checkboxText{
 	font-family: headerFont;
     color: rgb(255,255,255);
+    vertical-align: super;
 }
 
 .checkboxField{
 	width: 7%;
 	height: 24px;
     border: white solid 2px;
-    margin-left: 7%;
+    margin-left: 6%;
 }
 
 .regSubmit{
 	background-color: white;
     font-family: headerFont;
     border: white solid 2px;
-    color: rgb(0,0,0);
     width: 20%;
     padding: 8px;
     font-size: 18px;
