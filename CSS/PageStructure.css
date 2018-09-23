@@ -166,8 +166,7 @@
 }
 
 .regField{
-	width: 50%;
-    height: 24px;
+	width: 100%;
     margin: 5px;
     padding: 5px;
     border: white solid 2px;
@@ -184,20 +183,13 @@
 
 .checkboxText{
 	font-family: headerFont;
-    font-weight: lighter;
-    font-style: inherit;
     color: rgb(255,255,255);
 }
 
 .checkboxField{
-	width: 3%;
+	width: 10%;
 	height: 20px;
-    margin: 5px;
-    padding: 5px;
     border: white solid 2px;
-    font-size: 20px;
-    font-family: headerFont;
-    margin-left: 20px;
 }
 
 .regSubmit{
