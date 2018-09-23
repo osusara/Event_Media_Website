@@ -157,12 +157,8 @@
 	background-color: rgba(0,0,0,0.7);
 }
 
-.regTableRow{
-	width: 100%;
-}
-
 .regFieldTD{
-	width: 80%;
+	width: 85%;
 }
 
 .regField{
@@ -172,6 +168,7 @@
     border: white solid 2px;
     font-size: 20px;
     font-family: headerFont;
+    margin-left: 7%;
 }
 
 .regFieldText{
@@ -187,9 +184,10 @@
 }
 
 .checkboxField{
-	width: 10%;
-	height: 20px;
+	width: 7%;
+	height: 24px;
     border: white solid 2px;
+    margin-left: 7%;
 }
 
 .regSubmit{
