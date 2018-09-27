@@ -253,23 +253,21 @@
 }
 
 .PhotographersProfile1{
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255, 255, 255, 0.8);
 	font-family: headerFont;
 	width: 32%;
+	margin-left: 9%;
 	margin-bottom: 5%;
 	margin-top: 5%;
-	margin-left: 5%;
-	padding: 5%;
+	padding: 2%;
 	float: left;
 }
 
 .PhotographersProfile2{
-	background-color: rgba(255,255,255,0.7);
+	background-color: rgba(255,255,255,0.8);
 	font-family: headerFont;
 	width: 32%;
-	margin-bottom: 5%;
-	margin-top: 5%;
-	margin-right: 5%;
-	padding: 5%;
+	margin-right: 9%;
+	padding: 2%;
 	float: right;
 }
