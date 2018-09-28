@@ -252,6 +252,10 @@
 	position: absolute;
 }
 
+.PhotographersProfiles{
+	width: 100%;
+}
+
 .PhotographersProfile1{
 	background-color: rgba(255, 255, 255, 0.8);
 	font-family: headerFont;
