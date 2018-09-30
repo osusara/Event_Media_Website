@@ -36,12 +36,7 @@
 
 .header{
 	background-color: rgba(0, 0, 0, 0.7);
-	margin: 0px;
-	padding: 0px;
 	padding-top: 10px;
-	width: 100%;
-	top: 0;
-	left: 0;
 }
 
 @font-face{
@@ -52,7 +47,6 @@
 .headerText{
 	font-family: headerFont;
 	margin: 0px;
-	padding: 0px;
 	font-size: 500%;
 	color: rgb(255,255,255);
 	text-align: center;
