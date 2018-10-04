@@ -250,7 +250,15 @@
 	width: 100%;
 }
 
+.videographersTable{
+	width: 100%;
+}
+
 .PhotographersTableData{
+	width: 45%;
+}
+
+.videographersTableData{
 	width: 45%;
 }
 
@@ -265,6 +273,26 @@
 }
 
 .PhotographersProfile2{
+	background-color: rgba(255,255,255,0.8);
+	font-family: headerFont;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-right: 11%;
+	padding: 2%;
+	float: right;
+}
+
+.videographersProfile1{
+	background-color: rgba(255, 255, 255, 0.8);
+	font-family: headerFont;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 11%;
+	padding: 2%;
+	float: left;
+}
+
+.videographersProfile2{
 	background-color: rgba(255,255,255,0.8);
 	font-family: headerFont;
 	margin-top: 5%;
