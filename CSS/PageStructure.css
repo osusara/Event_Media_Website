@@ -59,12 +59,10 @@
 }
 
 .tab{
-	margin-right: 0px;
 	font-family: headerFont;
 	background-color: rgba(255,255,255,0.7);
 	color: rgb(0,0,0);
 	padding: 5px;
-	padding-right: 5px;
 	font-size: 150%;
 	text-decoration: none;
 }
