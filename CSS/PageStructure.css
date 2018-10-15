@@ -34,6 +34,15 @@
 	padding: 0px;
 }
 
+.bodyGallery{
+	background-image: url("../Resources/GalleryBackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+}
+
 .header{
 	background-color: rgba(0, 0, 0, 0.7);
 	padding-top: 10px;
@@ -201,7 +210,7 @@
 
 .slideShow{
 	height: 720px;
-	width: 1280px; 
+	width:1280px; 
 	margin: 20px auto;
 	position: relative;
 }
