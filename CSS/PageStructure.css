@@ -253,6 +253,11 @@
 	widows: 0;
 	height: 0;
 	border-style: solid;
+	opacity: 0.3;
+}
+
+.arrow:hover{
+	opacity: 1;
 }
 
 #arrow-left{
