@@ -227,9 +227,9 @@
 	background-repeat: no-repeat;
 }
 
-.slide1{background-image: url(../Resources/img1.jpg)}
-.slide2{background-image: url(../Resources/img2.jpg)}
-.slide3{background-image: url(../Resources/img3.jpg)}
+.slide1{background-image: url(../Resources/image1.jpg);}
+.slide2{background-image: url(../Resources/image2.jpg);}
+.slide3{background-image: url(../Resources/image3.jpg);}
 
 .slide-content{
 	display: flex;
@@ -240,8 +240,9 @@
 }
 
 .slide-content span{
-	font-size: 5rem;
+	font-size: 4rem;
 	color: white;
+	width: 80%;
 }
 
 .arrow{

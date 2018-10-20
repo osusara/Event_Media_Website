@@ -4,7 +4,7 @@ let sliderImages = document.querySelectorAll('.slide'),
 	current = 0;
 
 function reset(){
-	for(let i =0; i < sliderImages.length; i++){
+	for(let i = 0; i < sliderImages.length; i++){
 		sliderImages[i].style.display = 'none';
 	}
 }
@@ -33,7 +33,7 @@ arrowLeft.addEventListener('click', function(){
 	slideLeft();
 });
 
-arrowRight.addEventListener('click', function (){
+arrowRight.addEventListener('click', function(){
 	if (current === sliderImages.length - 1) {
 		current = -1;
 	}
