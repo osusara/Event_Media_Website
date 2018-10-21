@@ -333,11 +333,13 @@
 
 .gallery{
 	margin: 0;
+	margin-bottom: 1%;
 	padding: 1%;
 	width: 200vh;
 	overflow-x: hidden;
 	justify-content: center;
-	align-items: center;	
+	align-items: center;
+	background-color: rgba(0,0,0,0.7)
 }
 
 .galleryImage{
