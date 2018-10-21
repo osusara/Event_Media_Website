@@ -329,3 +329,16 @@
 	padding: 2%;
 	float: right;
 }
+
+.gallery{
+	margin: 0;
+	padding: 0;
+	width: 200vh;
+	overflow-x: hidden;
+	justify-content: center;
+	align-items: center;	
+}
+
+.galleryImage{
+	width: 16%;
+}
