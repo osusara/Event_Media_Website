@@ -332,7 +332,7 @@
 
 .gallery{
 	margin: 0;
-	padding: 0;
+	padding: 1%;
 	width: 200vh;
 	overflow-x: hidden;
 	justify-content: center;
@@ -341,4 +341,9 @@
 
 .galleryImage{
 	width: 16%;
+}
+
+.galleryImage:hover{
+	transition: all 0.3s ease-in-out;
+	transform: scale(1.5);
 }
