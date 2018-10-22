@@ -43,6 +43,10 @@
 	padding: 0px;
 }
 
+.top{
+	position: relative;
+}
+
 .header{
 	background-color: rgba(0, 0, 0, 0.7);
 	padding-top: 10px;
@@ -219,6 +223,7 @@
 
 .wrap{
 	position: relative;
+	margin-bottom: 1%;
 }
 
 .slide{
