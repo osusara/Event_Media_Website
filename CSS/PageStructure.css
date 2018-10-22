@@ -280,6 +280,49 @@
 	margin-right: 30px;
 }
 
+.latest{
+	width: 100%;
+	height: 300vh;
+	margin: 0;
+	padding: 0;
+	font-family: headerfont;
+}
+
+.latestSections{
+	width: 100%;
+	height: 25%;
+}
+
+.latestLeftPictures, .latestRightPictures{
+	width: 50%;
+}
+
+.latestLeftPictures{
+	float: left;
+}
+
+.latestRightPictures{
+	float: right;
+}
+
+.latestLeftText, .latestRightText{
+	width: 50%;
+	height: 94.9%;
+	background-color: rgba(255,255,255,0.5);
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	font-size: 3rem;
+}
+
+.latestLeftText{
+	float: left;
+}
+
+.latestRightText{
+	float: right;
+}
+
 .PhotographersTable{
 	width: 100%;
 }
