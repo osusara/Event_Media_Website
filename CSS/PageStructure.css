@@ -400,3 +400,29 @@
 	transition: all 0.3s ease-in-out;
 	transform: scale(1.5);
 }
+
+.leaderboardTable{
+	font-family: headerFont;
+	font-size: 2rem;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	margin: 2%;
+	padding: 2%;
+	width: 80%;
+}
+
+.leaderboardTableRow{
+	padding: 2%;
+	margin: 2%;
+}
+
+.leaderboardTableHeader{
+	padding: 2%;
+	background-color: rgba(255,255,255,0.7);
+}
+
+.leaderboardTableData{
+	padding: 2%;
+	background-color: rgba(255,255,255,0.5);
+}
