@@ -329,56 +329,86 @@
 	width: 100%;
 }
 
+.PhotographersTable1{
+	width: 100%;
+	float: left;
+}
+
+.PhotographersTable2{
+	width: 100%;
+	float: right;
+}
+
 .videographersTable{
 	width: 100%;
+	margin-left: 1%;
 }
 
 .PhotographersTableData{
-	width: 30%;
+	width: 1%;
 }
 
 .videographersTableData{
-	width: 45%;
+	width: 1%;
 }
 
 .PhotographersProfile1{
-	background-color: rgba(255, 255, 255, 0.8);
+	background-color: rgba(255, 255, 255, 0.5);
 	font-family: headerFont;
+	font-size: 0.9rem;
 	margin-top: 5%;
 	margin-bottom: 5%;
-	margin-left: 11%;
+	margin: 5%;
 	padding: 2%;
-	float: left;
+	width: 75%;
 }
 
 .PhotographersProfile2{
-	background-color: rgba(255,255,255,0.8);
+	background-color: rgba(255,255,255,0.5);
 	font-family: headerFont;
+	font-size: 0.9rem;
 	margin-top: 5%;
 	margin-bottom: 5%;
-	margin-right: 11%;
+	margin: 5%;
 	padding: 2%;
-	float: right;
+	width: 80%;
 }
 
 .videographersProfile1{
-	background-color: rgba(255, 255, 255, 0.8);
+	background-color: rgba(255, 255, 255, 0.5);
 	font-family: headerFont;
-	margin-top: 5%;
-	margin-bottom: 5%;
-	margin-left: 11%;
+	font-size: 1rem;
+	margin: 5%;
 	padding: 2%;
-	float: left;
+	width: 80%;
 }
 
 .videographersProfile2{
-	background-color: rgba(255,255,255,0.8);
+	background-color: rgba(255,255,255,0.5);
 	font-family: headerFont;
-	margin-top: 5%;
-	margin-bottom: 5%;
-	margin-right: 11%;
+	font-size: 1rem;
+	margin: 5%;
+	margin-left: 6.5%;
 	padding: 2%;
-	float: right;
+	width: 76.5%;
+}
+
+.videographersProfile3{
+	background-color: rgba(255, 255, 255, 0.5);
+	font-family: headerFont;
+	font-size: 1rem;
+	margin: 5%;
+	padding: 2%;
+	width: 80%;
+}
+
+.videographersProfile4{
+	background-color: rgba(255,255,255,0.5);
+	font-family: headerFont;
+	font-size: 1rem;
+	margin: 5%;
+	padding: 2%;
+	width: 76.5%;
 }
 
 .gallery{
