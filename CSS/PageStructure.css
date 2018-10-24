@@ -43,6 +43,15 @@
 	padding: 0px;
 }
 
+.bodyLeaderboard{
+	background-image: url("../Resources/GalleryBackground.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0px;
+	padding: 0px;
+}
+
 .top{
 	position: relative;
 }
