@@ -41,3 +41,7 @@ arrowRight.addEventListener('click', function(){
 });
 
 startSlide();
+
+function searchText() {
+	document.getElementById('searchText').value = null;
+}
