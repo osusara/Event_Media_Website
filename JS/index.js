@@ -1,3 +1,4 @@
+// Slide show functions
 let sliderImages = document.querySelectorAll('.slide'),
 	arrowLeft = document.querySelector('#arrow-left'),
 	arrowRight = document.querySelector('#arrow-right'),
@@ -42,6 +43,7 @@ arrowRight.addEventListener('click', function(){
 
 startSlide();
 
+// Search Box Function
 function searchText() {
 	document.getElementById('searchText').value = null;
 }
