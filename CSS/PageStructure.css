@@ -390,6 +390,13 @@
 	width: 80%;
 }
 
+.PhotographersProfile1:hover{
+	transition: all 0.2s ease-in-out;
+	transform: scale(1.2);
+	background-color: #fff;
+	margin-left: 8%;
+}
+
 .PhotographersProfile2{
 	background-color: rgba(255,255,255,0.5);
 	font-family: headerFont;
@@ -397,6 +404,12 @@
 	margin: 5%;
 	padding: 2%;
 	width: 80%;
+}
+
+.PhotographersProfile2:hover{
+	transition: all 0.2s ease-in-out;
+	transform: scale(1.2);
+	background-color: #fff;
 }
 
 .PhotographersProfile3{
@@ -408,6 +421,12 @@
 	width: 80%;
 }
 
+.PhotographersProfile3:hover{
+	transition: all 0.2s ease-in-out;
+	transform: scale(1.2);
+	background-color: #fff;
+}
+
 .PhotographersProfile4{
 	background-color: rgba(255,255,255,0.5);
 	font-family: headerFont;
@@ -415,6 +434,12 @@
 	margin: 5%;
 	padding: 2%;
 	width: 80%;
+}
+
+.PhotographersProfile4:hover{
+	transition: all 0.2s ease-in-out;
+	transform: scale(1.2);
+	background-color: #fff; 
 }
 
 .videographersProfile1{
