@@ -363,6 +363,10 @@
 	background-color: rgba(255,255,255,0.5);
 }
 
+.searchText:focus{
+	outline: none;
+}
+
 .searchButton{
 	width: 5.7vh;
 	height: 5.7vh;
