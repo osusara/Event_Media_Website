@@ -191,6 +191,12 @@
 	background-color: rgba(0, 0, 0, 0);
 }
 
+.regField:focus{
+	transition: all 0.3s ease-in-out;
+	border-bottom-color: rgb(219, 33, 33);
+	outline: none;
+}
+
 .regFieldText{
 	font-family: headerFont;
     color: rgb(255,255,255);
