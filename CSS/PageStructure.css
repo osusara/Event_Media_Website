@@ -380,6 +380,11 @@
 	outline: none;
 }
 
+.searchButton:hover{
+	transition: all 0.3s ease-in-out;
+	background-color: rgba(219, 33, 33, 0.7);
+}
+
 .SearchIcon{
 	width: 100%;
 	margin-top: 15%;
