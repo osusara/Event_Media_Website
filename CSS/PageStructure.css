@@ -226,6 +226,10 @@
     margin-top: 5%;
 }
 
+.regSubmit:focus{
+	outline: none;
+}
+
 .regSubmit:hover{
 	transition: all 0.5s ease-in-out;
 	background-color: rgba(219, 33, 33, 0.9);
