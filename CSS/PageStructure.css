@@ -371,6 +371,14 @@
 	outline: none;
 }
 
+/* Remove the clear button (x) in search box*/
+.searchText::-ms-clear {  display: none; width : 0; height: 0; }
+.searchText::-ms-reveal {  display: none; width : 0; height: 0; }
+.searchText::-webkit-search-decoration,
+.searchText::-webkit-search-cancel-button,
+.searchText::-webkit-search-results-button,
+.searchText::-webkit-search-results-decoration { display: none; }
+
 .searchButton{
 	width: 5.7vh;
 	height: 5.7vh;
