@@ -53,7 +53,7 @@ function searchText() {
 let slideIndex = 0;
 showSlides();
 
-function showSlides() {
+function showSlides(){
 	let i;
 	let slides = document.getElementById("mySlides");
 	let dots = document.getElementById("dot");
