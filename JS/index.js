@@ -71,7 +71,7 @@ function showSlides(){
 }
 
 function notEmpty(elem, helperMessege){
-	if(elem.length == 0){
+	if(elem.value.length == 0){
 		alert(helperMessege);
 		elem.focus();
 		return false;
