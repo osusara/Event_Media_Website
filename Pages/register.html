@@ -4,6 +4,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Media Factory | Register</title>
         <link rel="stylesheet" type="text/css" href="../CSS/PageStructure.css"/>
+        <script type="text/javascript" src="../JS/index.js">
+            function notEmpty(elem, helperMessege) {
+                    if (elem.value.length === 0) {
+                        alert(helperMessege);
+                        elem.focus();
+                        return false;
+                    } else {
+                        return true;
+                    }
+                }
+        </script>
     </head>
 
     <body class="bodyRegister">
@@ -54,7 +65,7 @@
                 </tr>
             </table>
             <br/>
-            <button type="Submit" class="regSubmit" onclick="notEmpty(document.getElementsByClass(regField),'You must fill the spaces')">Submit</button>
+            <input type="button" value="Submit" class="regSubmit" onclick="notEmpty(document.getElementsByClassName('regField'), 'You must fill the spaces')">
         </form>
 
         <center>
@@ -78,6 +89,8 @@
                 </tr>
             </table>
         </center>
+
+        
         
     </body>
 </html>

@@ -70,12 +70,4 @@ function showSlides(){
 	setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 
-function notEmpty(elem, helperMessege){
-	if(elem.value.length == 0){
-		alert(helperMessege);
-		elem.focus();
-		return false;
-	}else{
-		return true;
-	}
-}
+
